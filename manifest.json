@@ -1,8 +1,11 @@
 {
-  "version": "2.0.8",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.8.exe",
-  "sha256": "e0f08205da8f9bedd20ce9bc6ef7b031e5b6457d9288eac160c159039ec5a49c",
-  "size": 34528535,
-  "notes": "Added Audio to videos",
-  "publishedAt": "2026-09-24T13:19:05"
+  "version": "2.0.9",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.9.exe",
+  "sha256": "9e087c1e17d5739a012b5ca24a916d9ab8a0bf5cbeb5ff21d61cab8ea526c84a",
+  "size": 35097033,
+  "notes": "forzar actualizar el reloj de la PC automaticamente",
+  "publishedAt": "2026-09-29T23:17:56",
+  "only": [
+    "SuperPadel"
+  ]
 }
