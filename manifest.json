@@ -4,8 +4,5 @@
   "sha256": "9e087c1e17d5739a012b5ca24a916d9ab8a0bf5cbeb5ff21d61cab8ea526c84a",
   "size": 35097033,
   "notes": "forzar actualizar el reloj de la PC automaticamente",
-  "publishedAt": "2026-09-29T23:17:56",
-  "only": [
-    "SuperPadel"
-  ]
+  "publishedAt": "2026-09-29T23:54:19"
 }
