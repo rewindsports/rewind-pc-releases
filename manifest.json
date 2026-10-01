@@ -1,8 +1,11 @@
 {
-  "version": "2.0.9",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.9.exe",
-  "sha256": "9e087c1e17d5739a012b5ca24a916d9ab8a0bf5cbeb5ff21d61cab8ea526c84a",
-  "size": 35097033,
-  "notes": "forzar actualizar el reloj de la PC automaticamente",
-  "publishedAt": "2026-09-29T23:54:19"
+  "version": "2.0.10",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.10.exe",
+  "sha256": "33e436a86e0edf8229eac05c1cb36ee6c6544446880b65189c9201539aa91360",
+  "size": 35113697,
+  "notes": "A\u00f1adi prueba del sistema para empleados y reporte a rewindpadel.com.mx",
+  "publishedAt": "2026-10-01T17:06:12",
+  "only": [
+    "SuperPadel"
+  ]
 }
