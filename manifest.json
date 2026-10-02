@@ -1,8 +1,11 @@
 {
-  "version": "2.0.10",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.10.exe",
-  "sha256": "33e436a86e0edf8229eac05c1cb36ee6c6544446880b65189c9201539aa91360",
-  "size": 35113697,
-  "notes": "A\u00f1adi prueba del sistema para empleados y reporte a rewindpadel.com.mx",
-  "publishedAt": "2026-10-01T20:15:10"
+  "version": "2.0.11",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.11.exe",
+  "sha256": "e332b4783a5d36a208b6eb4392108e263f297e5237e7dfc700dc8ac112bcd818",
+  "size": 35122523,
+  "notes": "Modificar Configuracion Remotamente por Super Admins",
+  "publishedAt": "2026-10-01T22:17:24",
+  "only": [
+    "SuperPadel"
+  ]
 }
