@@ -1,8 +1,11 @@
 {
-  "version": "2.0.12",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.12.exe",
-  "sha256": "99f07c6ee4588cb93d012e9b314f64b5a2a1b1efa17f073af1f38f721b24abcb",
-  "size": 35124495,
-  "notes": "Boton \"Abrir Rewind al Iniciar Windows\" Protegido dentro de la configuracion",
-  "publishedAt": "2026-10-02T00:18:46"
+  "version": "2.0.13",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.13.exe",
+  "sha256": "bd16ff50b2d56e63a51b8ca664c2736179cd2bc85d74200f2f1386a88a1420d7",
+  "size": 35122084,
+  "notes": "Ofrece Actualizaciones Cuando Arranca",
+  "publishedAt": "2026-10-02T02:01:13",
+  "only": [
+    "SuperPadel"
+  ]
 }
