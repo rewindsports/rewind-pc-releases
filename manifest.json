@@ -4,5 +4,16 @@
   "sha256": "1eaf5bfbdc1e8f8e8ae3e0d181f3b0bc64d343d69612076af93c0291a8844f3f",
   "size": 35128190,
   "notes": "Poder pedir clips remotamente",
-  "publishedAt": "2026-10-02T12:39:21"
+  "publishedAt": "2026-10-02T12:39:21",
+  "staged": {
+    "version": "2.0.15",
+    "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.15.exe",
+    "sha256": "538d517463543534bbed5397bc0756b6a0cd7798900fc32b781fa550b7ed37b2",
+    "size": 35136312,
+    "notes": "Actualizaciones del sistema remotamente",
+    "publishedAt": "2026-10-02T13:14:06",
+    "only": [
+      "SuperPadel"
+    ]
+  }
 }
