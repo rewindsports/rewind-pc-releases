@@ -1,19 +1,8 @@
 {
-  "version": "2.0.16",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.16.exe",
-  "sha256": "88ef6609807a7b495dade6e175b6b55d9ff210b03180ae095143f60c46a5c3a8",
-  "size": 35547946,
-  "notes": "Now Rewind PC can find new cameras to configure automatically",
-  "publishedAt": "2026-10-09T00:39:25",
-  "staged": {
-    "version": "2.0.17",
-    "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.17.exe",
-    "sha256": "58166bf93d6486270da61af94f7e9e25b2f65e0e22ae44280613daa226992ac6",
-    "size": 35546804,
-    "notes": "Mejora las estadisticas del club",
-    "publishedAt": "2026-10-09T18:21:34",
-    "only": [
-      "SuperPadel"
-    ]
-  }
+  "version": "2.0.17",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.17.exe",
+  "sha256": "58166bf93d6486270da61af94f7e9e25b2f65e0e22ae44280613daa226992ac6",
+  "size": 35546804,
+  "notes": "Mejora las estadisticas del club",
+  "publishedAt": "2026-10-10T12:08:42"
 }
