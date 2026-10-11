@@ -1,19 +1,8 @@
 {
-  "version": "2.0.18",
-  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.18.exe",
-  "sha256": "8ab5b3bc57effb5b9aa7abf9b8fd7a0ebafc2262f494979ebe38177e43c1ecd9",
-  "size": 35560310,
-  "notes": "Auto Arranque en X3Padel",
-  "publishedAt": "2026-10-10T12:33:46",
-  "staged": {
-    "version": "2.0.19",
-    "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.19.exe",
-    "sha256": "cb7086dab5e69600b5c6bf25349157dfe5d8483707dbfddabbd4b4ad6433c99d",
-    "size": 35587536,
-    "notes": "Mejora el arranque en X3Padel",
-    "publishedAt": "2026-10-10T21:14:54",
-    "only": [
-      "X3Padel"
-    ]
-  }
+  "version": "2.0.19",
+  "url": "https://raw.githubusercontent.com/rewindsports/rewind-pc-releases/main/releases/RewindSetup-2.0.19.exe",
+  "sha256": "cb7086dab5e69600b5c6bf25349157dfe5d8483707dbfddabbd4b4ad6433c99d",
+  "size": 35587536,
+  "notes": "Mejora el arranque en X3Padel",
+  "publishedAt": "2026-10-10T22:21:26"
 }
